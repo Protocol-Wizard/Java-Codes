@@ -6,7 +6,8 @@ public class AreaOfCircle{
 		float r = s.nextFloat();
 		float pi = (float)(22/7);
 		float area = pi*r*r;
-		System.out.println("Area is: "+area+"square units");
+		System.out.println("Area is: "+area+"square units.");
 	}
 }
+
 
